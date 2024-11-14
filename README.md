@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ebzm00&theme=blue-green" />
    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ebzm00" />
