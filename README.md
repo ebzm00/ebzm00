@@ -1,6 +1,8 @@
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Teddy%20Github!&fontSize=90" />	
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=120&section=header&text=Welcome%20to%20Teddy's%20Hub!&fontSize=50&fontColor=ffffff" />
 </div>
+
+
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ebzm00&theme=blue-green" />
