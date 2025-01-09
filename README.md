@@ -49,12 +49,10 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="hgs01041161264@gmail.com">
-    <img
-      src="https://img.shields.io/badge/hgs01041161264@gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
+  <a href="mailto:hgs01041161264@gmail.com">
+    <img src="https://img.shields.io/badge/hgs01041161264@gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/g.otter_/">
-    <img
-      src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
