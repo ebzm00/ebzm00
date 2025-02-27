@@ -52,10 +52,10 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="mailto:hgs01041161264@gmail.com">
+  <a href="mailto:hgs01041161264@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/hgs01041161264@gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/osiawase_/">
+  <a href="https://www.instagram.com/osiawase_/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
