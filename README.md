@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> &nbsp
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> &nbsp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> &nbsp
-  <img src="https://img.shields.io/badge/Japanese%20N3-DD0B78?style=for-the-badge&logo=Monogram&logoColor=white" />
 </div>
 
 
